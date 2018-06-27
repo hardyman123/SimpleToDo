@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/Yip29aa' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/gdiSN4S.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -37,7 +37,7 @@ were doing. Using the 'R' class for example was foreign to me, and it was tought
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Aristides Peralta]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
